@@ -1,0 +1,15 @@
+{
+  "name": "Sales Analysis Clean Theme",
+  "dataColors": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#1f77b4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{ "solid": { "color": "#000000" } }],
+        "background": [{ "solid": { "color": "#ffffff" } }]
+      }
+    }
+  }
+}
